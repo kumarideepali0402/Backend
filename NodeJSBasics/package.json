@@ -1,0 +1,12 @@
+{
+  "name": "nodejsyt",
+  "version": "1.0.0",
+  "description": "learning nodeJS from Piyush Garg",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node helloworld.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
